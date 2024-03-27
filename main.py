@@ -1,11 +1,4 @@
 
-# a = {"1","2","3","4","4"}
-# a.add('5')
-# a.remove('5')
-# print(a)
-# a = 'привет как дела'
-# q = a.split(' ')
-# print(q)
 text = input('ведите текст ')
 text = text.lower()
 punction = ['.','"',"'",',','!','?']
